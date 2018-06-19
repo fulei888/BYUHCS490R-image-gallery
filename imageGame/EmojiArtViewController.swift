@@ -77,6 +77,4 @@ class EmojiArtViewController: UIViewController, UIDropInteractionDelegate,UIScro
     }
     
     
-    
-    
 }
